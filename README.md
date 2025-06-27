@@ -1,2 +1,2 @@
-# -Scoring
+# Scoring
 Show Event

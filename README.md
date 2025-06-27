@@ -1,2 +1,2 @@
 # -Scoring
-HKRSU2025 聯校盃表演賽
+Show Event
